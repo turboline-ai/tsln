@@ -2,11 +2,11 @@
 
 ## A Novel Data Serialization Format for Token-Efficient AI Analysis
 
-**Version:** 1.0
-**Date:** December 27, 2025
-**Authors:** Turbostream Team
-**Status:** Production Ready
-
+**Version:** 1.0   
+**Date:** December 27, 2025   
+**Authors:** Turbostream Team   
+**Status:** Production Ready   
+ 
 ---
 
 ## Abstract
