@@ -6,8 +6,8 @@
 **Date:** December 27, 2025   
 **Authors:** Turbostream Team   
 **Status:** Production Ready   
-**Download :** [Whitepaper](https://github.com/turboline-ai/tsln/releases/download/V1.0.0/TSLN-Complete-Whitepaper.pdf)
- 
+**Download :** [Whitepaper](https://github.com/turboline-ai/tsln/releases/download/V1.0.0/TSLN-Complete-Whitepaper.pdf)   
+**Packages:** [Go Lang](https://github.com/turboline-ai/tsln-golang) | [Node.js](https://github.com/turboline-ai/tsln-node) 
 ---
 
 ## Abstract
