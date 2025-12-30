@@ -6,6 +6,7 @@
 **Date:** December 27, 2025   
 **Authors:** Turbostream Team   
 **Status:** Production Ready   
+**Download :** [Whitepaper](https://github.com/turboline-ai/tsln/releases/download/V1.0.0/TSLN-Complete-Whitepaper.pdf)
  
 ---
 
